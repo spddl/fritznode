@@ -60,35 +60,35 @@ Produces
 ```json
 > ↑ 31,3 Mbit/s, ↓ 58,5 Mbit/s, verbunden seit 13.10.2019, 04:06 Uhr
 { Heute:
-   { '(hh:mm)': '11:03',
-     'gesamt(MB)': '7027',
-     'gesendet(MB)': '376',
-     'empfangen(MB)': '6651',
-     Verbindungen: '2' },
+   { "(hh:mm)": "11:03",
+     "gesamt(MB)": "7027",
+     "gesendet(MB)": "376",
+     "empfangen(MB)": "6651",
+     Verbindungen: "2" },
   Gestern:
-   { '(hh:mm)': '24:00',
-     'gesamt(MB)': '23350',
-     'gesendet(MB)': '959',
-     'empfangen(MB)': '22391',
-     Verbindungen: '2' },
-  'Aktuelle Woche':
-   { '(hh:mm)': '155:00',
-     'gesamt(MB)': '185555',
-     'gesendet(MB)': '8633',
-     'empfangen(MB)': '176922',
-     Verbindungen: '14' },
-  'Aktueller Monat':
-   { '(hh:mm)': '298:42',
-     'gesamt(MB)': '352260',
-     'gesendet(MB)': '19026',
-     'empfangen(MB)': '333234',
-     Verbindungen: '42' },
+   { "(hh:mm)": "24:00",
+     "gesamt(MB)": "23350",
+     "gesendet(MB)": "959",
+     "empfangen(MB)": "22391",
+     Verbindungen: "2" },
+  "Aktuelle Woche":
+   { "(hh:mm)": "155:00",
+     "gesamt(MB)": "185555",
+     "gesendet(MB)": "8633",
+     "empfangen(MB)": "176922",
+     Verbindungen: "14" },
+  "Aktueller Monat":
+   { "(hh:mm)": "298:42",
+     "gesamt(MB)": "352260",
+     "gesendet(MB)": "19026",
+     "empfangen(MB)": "333234",
+     Verbindungen: "42" },
   Vormonat:
-   { '(hh:mm)': '719:22',
-     'gesamt(MB)': '894949',
-     'gesendet(MB)': '44390',
-     'empfangen(MB)': '850559',
-     Verbindungen: '88' } }
+   { "(hh:mm)": "719:22",
+     "gesamt(MB)": "894949",
+     "gesendet(MB)": "44390",
+     "empfangen(MB)": "850559",
+     Verbindungen: "88" } }
 ```
 
 Environment variables supported
