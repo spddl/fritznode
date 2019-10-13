@@ -4,7 +4,7 @@
   "description": "Fritz box API access",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "set DEBUG=* & node test.js"
   },
   "keywords": [
     "fritzbox",
@@ -16,6 +16,7 @@
   "author": "rodney42",
   "license": "MIT",
   "dependencies": {
+    "debug": "^4.1.1",
     "simple-get": "^3.0.3",
     "xml2js-parser": "^1.1.1"
   },
